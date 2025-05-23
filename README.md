@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ladeep Kumar Kokkilagadda</h1>
-<h3 align="center">Salesforce Developer & Administrator | Cybersecurity Analyst | SOC Analyst</h3>
+<h3 align="center">Salesforce Developer & Administrator | Cybersecurity & SOC Analyst</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ladeep-kumar/" target="_blank">
@@ -15,20 +15,48 @@
 🔧 **About Me**
 
 - 🔭 Salesforce Developer & Administrator with **4+ years** of experience
+- 🛡️ Cybersecurity & SOC Analyst with hands-on experience in threat monitoring, incident response, and SIEM solutions
 - ⚙️ Expert in **Lightning Web Components (LWC)**, **Apex**, **FSL**, and **Process Automation**
-- 🧩 Skilled in **Integrations** using REST APIs, Middleware, and third-party apps
-- 👨‍🏫 Mentored junior admins/devs and love collaborating with cross-functional teams
-- 📈 Passionate about delivering efficient, scalable, and user-centric Salesforce solutions
+- 🧩 Proficient in integrations using REST APIs, Middleware, and third-party apps
+- 👨‍🏫 Mentor and collaborator, passionate about secure and scalable solutions
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-**Salesforce Dev**: Apex · LWC · Visualforce · SOQL · Triggers · Classes  
-**Admin & Tools**: Flows · Process Builder · Reports · Dashboards · Security Model  
-**Integration**: REST APIs · Middleware · Data Loader · Dataloader.io · DemandTools  
-**Other Tools**: VS Code · GitHub · Flosum · AppExchange Tools · QA Testing  
-**Soft Skills**: Agile · Client-Facing · Team Player · Documentation · End-User Training  
+**Salesforce Dev:**  
+Apex · LWC · Visualforce · SOQL · Triggers · Classes
+
+**Admin & Tools:**  
+Flows · Process Builder · Reports · Dashboards · Security Model
+
+**Integration:**  
+REST APIs · Middleware · Data Loader · Dataloader.io · DemandTools
+
+**Other Tools:**  
+VS Code · GitHub · Flosum · AppExchange Tools · QA Testing
+
+**Cybersecurity & SOC Skills:**  
+- SIEM (Splunk, IBM QRadar, Azure Sentinel): Monitoring, Use Case Development, Alert Triage
+- Threat Detection & Incident Response
+- Real-time Security Monitoring & Escalation
+- Log Analysis, Forensics & Investigation
+- Vulnerability Scanning (Nessus, OpenVAS)
+- Endpoint Security & EDR Solutions
+- Malware Analysis (Basics)
+- Network Security & Monitoring
+- Security Policies & Compliance (ISO 27001, NIST)
+- Threat Intelligence & IOC Research
+- MITRE ATT&CK Framework
+- Ticketing & Documentation (ServiceNow, JIRA)
+- Playbook & Runbook Execution
+- Security Awareness & End-User Training
+- Phishing Investigation & Remediation
+- Reporting & Communication to Stakeholders
+- Coordination with IT and Security Teams
+
+**Soft Skills:**  
+Agile · Client-Facing · Team Player · Documentation · Analytical Thinking · Problem Solving
 
 ---
 
@@ -54,17 +82,6 @@
 - 🚀 [**FSL Dispatcher Enhancer**](#) – Custom scheduling logic and optimized route planner using Apex & LWC
 - 🔗 [**Salesforce–ERP Integration**](#) – Middleware-based integration reducing manual data entry by 40%
 - 📊 [**Case Routing Intelligence**](#) – Dynamic Apex logic improving first-call resolution by 18%
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ladeep30&show_icons=true&theme=radical" alt="ladeep30 stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ladeep30&theme=radical" alt="Streak Stats"/>
-</p>
 
 ---
 
